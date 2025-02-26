@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Django**
 
-- 💬 Ask me about **kotlin, laravel,java**
+- 💬 Ask me about **kotlin, laravel,java,PHP,Python**
 
 - 📫 How to reach me **vkimanga@gmail.com**
 
