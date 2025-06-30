@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm victor Kimanga</h1>
-<h3 align="center">A passionate backend developer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate Software developer from Nairobi, Kenya</h3>
 
-- 🌱 I’m currently learning **SpringBoot, Django**
+- 🌱 I’m currently learning **SpringBoot, Django, swift**
 
-- 💬 Ask me about **kotlin, laravel,java,PHP,Python**
+- 💬 Ask me about **kotlin, laravel ,java ,PHP ,Python**
 
 - 📫 How to reach me **vkimanga@gmail.com**
 
